@@ -34,15 +34,15 @@ Mature government design systems such as the [GOV.UK Design System](https://desi
 
 The v0.1.0 scope is tracked in the [v0.1.0 milestone](https://github.com/UnitedOpen-Source/commons-kit/milestone/1):
 
-- Monorepo, build and CI foundation
-- ADR on the component stack (React and CSS custom properties, versus alternatives)
-- Design tokens package
-- Accessible Button, Field and ErrorSummary
-- Step-by-step form pattern driven by a schema
-- "Data purpose" component: why each personal field is requested
-- Public change log JSON Schema
-- i18n message catalogs for en, pt-BR and es
-- Documentation site with automated accessibility checks
+- Monorepo, build and CI foundation ([#1](https://github.com/UnitedOpen-Source/commons-kit/issues/1))
+- ADR on the component stack (React and CSS custom properties, versus alternatives) ([#2](https://github.com/UnitedOpen-Source/commons-kit/issues/2))
+- Design tokens package ([#3](https://github.com/UnitedOpen-Source/commons-kit/issues/3))
+- Accessible Button, Field and ErrorSummary ([#4](https://github.com/UnitedOpen-Source/commons-kit/issues/4))
+- Step-by-step form pattern driven by a schema ([#5](https://github.com/UnitedOpen-Source/commons-kit/issues/5))
+- "Data purpose" component: why each personal field is requested ([#6](https://github.com/UnitedOpen-Source/commons-kit/issues/6))
+- Public change log JSON Schema ([#7](https://github.com/UnitedOpen-Source/commons-kit/issues/7))
+- i18n message catalogs for en, pt-BR and es ([#8](https://github.com/UnitedOpen-Source/commons-kit/issues/8))
+- Documentation site with automated accessibility checks ([#9](https://github.com/UnitedOpen-Source/commons-kit/issues/9))
 
 ## Principles
 
